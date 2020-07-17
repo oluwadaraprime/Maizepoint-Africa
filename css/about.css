@@ -1,0 +1,28 @@
+/*--------About--------*/
+h3 
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+#about
+{
+    padding-top: 20px;
+    padding-bottom: 50px;
+    color: rgb(13, 22, 14); 
+}
+#about .btn
+{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.about-content
+{
+    padding-top: 15px;
+    font-size: 25px;
+    line-height: 30px;
+}
+.about-header 
+{
+    color: aquamarine;
+}
